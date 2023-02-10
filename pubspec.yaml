@@ -1,7 +1,7 @@
 name: card_actions
 description: Empower Your Cards with Custom Actions and Enhancements using our Flutter Package.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/AbianS/card_actions
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
